@@ -17,6 +17,11 @@
 
 ![image](https://github.com/khv9786/goorm/assets/96505736/b96a26fc-9faf-4e1d-b7ce-05ad89903dfa)
 
+> hover 적용 예시
+
+![image](https://github.com/khv9786/goorm/assets/96505736/6016bcc1-c31f-467c-9794-ce2a09e45fe4)
+
+
 
 
 
