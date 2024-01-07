@@ -15,6 +15,9 @@
 
 > 구현화면 
 
-![image](https://github.com/khv9786/goorm/assets/96505736/fdb33fe6-1168-49b6-9460-36274d5b1e5b)
+![image](https://github.com/khv9786/goorm/assets/96505736/b96a26fc-9faf-4e1d-b7ce-05ad89903dfa)
+
+
+
 
 
