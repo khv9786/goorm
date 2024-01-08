@@ -15,11 +15,17 @@
 
 > 구현화면 
 
-![image](https://github.com/khv9786/goorm/assets/96505736/b96a26fc-9faf-4e1d-b7ce-05ad89903dfa)
+![image](https://github.com/khv9786/goorm/assets/96505736/8bd34c71-559d-4dc1-909b-8c163fa6034f)
+![image](https://github.com/khv9786/goorm/assets/96505736/b473fd66-ab66-4e75-b586-70c7d9f9286d)
+
 
 > hover 적용 예시
 
-![image](https://github.com/khv9786/goorm/assets/96505736/6016bcc1-c31f-467c-9794-ce2a09e45fe4)
+> Mouse on 'Joker'
+
+![image](https://github.com/khv9786/goorm/assets/96505736/633e2ff0-4c16-44ac-9bb0-89039167efbe)
+
+
 
 
 
