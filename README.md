@@ -3,10 +3,10 @@
 
 <br>
 
-## 과제1. 01. HTML/CSS를 이용해서 넷플릭스 사이트 만들기
+## 과제1. HTML/CSS를 이용해서 넷플릭스 사이트 만들기
 
 <details>
-<summary>🎞🎞🎞</summary>
+<summary>🎞🎞</summary>
 <div markdown="1">
 
 > 과제 예시
@@ -33,6 +33,8 @@
 </div>
 </details>
 
+<br>
+
 ## 과제2. 자바스크립트를 이용해서 Todo 앱 만들기
 
 <details>
@@ -52,12 +54,34 @@
 > 구현화면
 
 ![image](https://github.com/khv9786/goorm/assets/96505736/27de4f5d-a008-4c8a-807c-e3ea0585e9cb)
+</div>
+</details>
+
+<br>
+
+## 과제3. 자바스크립트를 이용해서 github finder 앱 만들기
+
+<details>
+<summary>💻🔍</summary>
+<div markdown="1">
+
+> 과제 예시
+
+![image](https://github.com/khv9786/goorm/assets/96505736/75526641-5009-4792-86b0-eda0660e8857)
 
 
+### 요구사항
+- 자바스크립트 OOP를 이용하여 구현하기.
+- 비동기 통신을 이용하기.
+- 위에 기능 외에 잔디밭 기능, Spinner 기능 등 원하는 기능 추가
 
+> 구현화면 
 
+![image](https://github.com/khv9786/goorm/assets/96505736/18df87c3-9066-4981-85a3-01e6ab574b7e)
 
+![image](https://github.com/khv9786/goorm/assets/96505736/42d5c5d7-d17a-45bc-a07f-a41699684ad9)
 
+<br>
 
 
 
