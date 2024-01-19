@@ -105,6 +105,55 @@
 
 ---
 
+</div>
+</details>
+
+<br>
+
+## 과제4. 자바스크립트를 이용해서 Spread Sheet 앱 만들기
+
+<details>
+<summary>📃📄</summary>
+<div markdown="1">
+
+> 과제 예시
+
+![Aug-09-2023 16-56-50](https://github.com/khv9786/goorm/assets/96505736/dc02662a-3cb4-4d92-961d-4ae0210fc358)
+
+<br>
+
+---
+
+### 요구사항
+- 현재 focus 된 셀 위쪽 헤더 왼쪽 헤더가 함께 색변환으로 하이라이트 되게 해야함.
+- 작성된 모든 데이터를 Export SpreadSheet 버튼을 눌러 Excel 파일로 생성할 수 있어야 함.
+- 생성된 파일을 구글 SpreadSheet에서 import하면 같은 데이터가 나와야 함.
+
+<br> 
+
+> 구현화면
+
+---
+
+#### Cell 번호 확인 및 하이라이트 기능 , A-Z 이후로는 AA - Az, BA- Bz ... 구현
+![image](https://github.com/khv9786/goorm/assets/96505736/47cc3264-8edb-48bd-9c09-46be1fbcda4d)
+![image](https://github.com/khv9786/goorm/assets/96505736/ca416dec-cc43-49e9-99e4-fc7eef8bbf54)
+![image](https://github.com/khv9786/goorm/assets/96505736/4224db85-73fb-46a0-99f5-b603f27ee30d)
+![image](https://github.com/khv9786/goorm/assets/96505736/97eb7d39-d1e1-4887-8d6a-8f402d730ef0)
+
+---
+
+#### Export 버튼 누를 시
+![image](https://github.com/khv9786/goorm/assets/96505736/82c5b51e-53cf-40ec-bb84-6714e72e1d1c)
+
+![image](https://github.com/khv9786/goorm/assets/96505736/b89d1b89-41ad-46d8-aa6a-fcfbb68bbd82)
+
+---
+
+<br>
+
+---
+
 
 
 
